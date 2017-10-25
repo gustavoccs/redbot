@@ -1,0 +1,33 @@
+{
+  "name": "DiscordBot",
+  "version": "0.1.1",
+  "description": "Bot for Discord app",
+  "readme": "README.md",
+  "maintainers": [],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalda/DiscordBot.git"
+  },
+  "license": "GPL-2.0",
+  "dependencies": {
+    "cleverbot-node": "^0.2.8",
+    "python3.5-dev": "",
+    "python3-pip": "",
+    "build-essential": "",
+    "libssl-dev": "",
+    "libssl-dev": "",
+    "libffi-dev": "",
+    "git": "",
+    "npm": "",
+    "ffmpeg": "",
+    "request-promise": "^4.2.1",
+    "libopus-dev": "",
+    "tumblr.js": "0.0.x",
+    "unzip": "",
+    "urban": "^0.3.1",
+    "wikijs": "^0.1.4",
+    "youtube-dl": "^1.11.1"
+  },
+  "main": "discord_bot.js"
+}
