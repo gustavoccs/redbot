@@ -7,7 +7,7 @@ default_settings = ('{"TRIVIA_ADMIN_ONLY": false, "EDIT_CC_ADMIN_ONLY": false, "
 					'"TRIVIA_MAX_SCORE": 10, "TRIVIA_DELAY": 15, "LOGGING": true, "EMAIL": "EMAILHERE", "ADMINROLE": "Transistor", "DOWNLOADMODE" : true, ' +
 					'"VOLUME": 0.20, "TRIVIA_BOT_PLAYS" : false, "TRIVIA_TIMEOUT" : 120, "DEBUG_ID" : "IgnoreThis", "POLL_DURATION" : 60, "PREFIX" : "!"}')
 					
-default_apis = ('{"IMGFLIP_USERNAME": "USERNAMEHERE", "IMGFLIP_PASSWORD": "PASSWORDHERE", "MYAPIFILMS_TOKEN" : "MzQ3OTM0NzczMTUyMzE3NDQy.DNGc_w.FjRSIoy95p8PVov6BiCYNo61RB8"}')
+default_apis = ('{"IMGFLIP_USERNAME": "gustavovasconceloscunh@gmail.com", "IMGFLIP_PASSWORD": "99842073", "MYAPIFILMS_TOKEN" : "MzQ3OTM0NzczMTUyMzE3NDQy.DNGc_w.FjRSIoy95p8PVov6BiCYNo61RB8"}')
 
 logger = logging.getLogger("__main__")
 
