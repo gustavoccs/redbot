@@ -994,7 +994,7 @@ async def image(message): # API's dead.
 
 async def imdb(message): # Method added by BananaWaffles.
 	msg = message.content.split()
-	if apis["MYAPIFILMS_TOKEN"] == "TOKENHERE":
+	if apis["MYAPIFILMS_TOKEN"] == "MzQ3OTM0NzczMTUyMzE3NDQy.DNGc_w.FjRSIoy95p8PVov6BiCYNo61RB8":
 		await client.send_message(message.channel, "`This command wasn't configured properly. If you're the owner, edit json/apis.json`")
 		return False
 	if len(msg) > 1:
